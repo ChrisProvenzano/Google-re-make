@@ -1,0 +1,132 @@
+#gmailp {
+    float: right;
+    margin: 1em 1em 1em 1em;
+}
+
+#gmails {
+    float: right;
+}
+
+#gmailimg {
+    float: right;
+    margin: .5em .5em .5em .5em ;
+}
+
+#gmailimgt {
+    float: right;
+    margin: 1em .5em .5em .5em ;
+
+}
+
+#gmail {
+    width: 1028px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    right: 10px;
+}
+
+#google {
+    /* position: relative;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; */
+    margin-top: 110px;
+    text-align: center;
+}
+
+#serch {
+    margin: 1px 1em 1em 1em;
+}
+
+.cen {
+    text-align: center;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: grey;
+    margin: 20px;
+}
+.box {
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    left: -17px;
+    bottom: 5px;
+}
+
+#grid {
+    text-align: center;
+}
+
+#dot {
+    height: 30px;
+    width: 100px;
+    border-radius: 500px;
+    display: inline-block;
+    background-color: grey;
+    margin: 20px;
+}
+
+#com-img {
+   
+    position: relative;
+    top: -8px;
+    left: 7px;
+}
+
+#com-txt {
+    display: inline-block;
+    position: relative;
+
+    
+}
+
+#set {
+    display: block;
+    position: relative;
+    top: 240px;
+    left: 950px;
+}
+
+
+
+
+
+
+
+
+
+
+#G {
+ color: blue;
+}
+
+#Go {
+    color: red;
+}
+
+#Goo {
+    color: orange;
+}
+
+#Goog {
+    color: blue;
+}
+
+#Googl {
+    color: red;
+}
+
+#Googles {
+    color: orange;
+}
+
+#logo {
+    font-size: 100px;
+    margin: 40px;
+}
